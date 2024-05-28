@@ -29,19 +29,19 @@ I'm a dedicated Jr developer with a keen interest in Web Application Security an
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,javascript,linux,github" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,linux,github,kali,bash" /><br>
 </div>
 
 <br/>
 
 <div align="left">
     <h2 align="left">💻 Skills 💻</h2>
-        <h3>- 📕Technical : Python, JavaScript, Web Application Security, Penetration Testing, Node.js, React</h3>
+        <h3>- 📕Technical : Python, JavaScript, Web Application Security, Penetration Testing, Web App Development</h3>
         <h3>- 📗Soft Skills : Project Management, Effective Communication, Problem Solving, Time Management</h3>
-        <h3>- 📙Additional Tools : GitHub, Docker, AWS, Burp Suite, Metasploit, Nmap</h3>
+        <h3>- 📙Additional Tools : GitHub, Docker, AWS, Burp Suite, Metasploit, Nmap, NPM</h3>
  </div>
 
 <h2 align="left">📊 Github Stats 📊</h2>
 
-![Rob'er's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobEstis&show_icons=true&theme=radical)
+![Rob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobEstis&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobEstis&show_icons=true&theme=radical)
