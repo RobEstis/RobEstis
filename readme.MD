@@ -11,7 +11,7 @@
 </div>
 
 <br> 
-I'm a dedicated Jr developer with a keen interest in Web Application Security and Penetration Testing. Proficient in both Python and JavaScript, I strive to create secure and efficient web applications. <br>
+I'm a dedicated Jr developer with a keen interest in Web Application Development and Penetration Testing. Proficient in both Python and JavaScript, I strive to create secure and efficient web applications. <br>
 
 <br> 
 
