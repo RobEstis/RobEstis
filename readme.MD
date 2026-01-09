@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello, I'm Rob</h1>
-<h3 align="left">Jr. Python/JavaScript/Go Developer | Passionate about Web Application Security and Penetration Testing</h3>
+<h3 align="left">Jr. Python/JavaScript/Go</h3>
 
 <div align="left"> 
   <a href="mailto:RobEstis@gmail.com" target="_blank">
@@ -17,11 +17,9 @@ I'm a dedicated Jr developer with a keen interest in Web Application Development
 
 <div align="left">
  
- 🔭 I’m currently working on **Web Security Projects**
+ 🔭 I’m currently working on **Science Based Phython Projects**
  
- 🌱 I’m currently learning more about **Penetration Testing**
-
-💬 Ask me about **Web Application Security**
+ 🌱 I’m currently learning more about **Python AL/ML**
 
 📧 Reach me out: RobEstis@gmail.com
 
@@ -36,9 +34,9 @@ I'm a dedicated Jr developer with a keen interest in Web Application Development
 
 <div align="left">
     <h2 align="left">💻 Skills 💻</h2>
-        <h3>- 📕Technical : Python, JavaScript, Web Application Security, Penetration Testing, Web App Development</h3>
+        <h3>- 📕Technical : Python, JavaScript, Web Applications, Web App Development</h3>
         <h3>- 📗Soft Skills : Project Management, Effective Communication, Problem Solving, Time Management</h3>
-        <h3>- 📙Additional Tools : GitHub, Docker, AWS, Burp Suite, Metasploit, Nmap, NPM</h3>
+        <h3>- 📙Additional Tools : GitHub, Docker, AWS, LLMs, Nmap, NPM</h3>
  </div>
 
 <h2 align="left">📊 Github Stats 📊</h2>
