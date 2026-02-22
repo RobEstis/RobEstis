@@ -34,7 +34,7 @@ I'm a dedicated Jr developer with a keen interest in Web Application Development
 
 <div align="left">
     <h2 align="left">💻 Skills 💻</h2>
-        <h3>- 📕Technical : Python, JavaScript, Web Applications, Web App Development</h3>
+        <h3>- 📕Technical : Python, Web Applications, Backend, Bioinformatics</h3>
         <h3>- 📗Soft Skills : Project Management, Effective Communication, Problem Solving, Time Management</h3>
         <h3>- 📙Additional Tools : GitHub, Docker, AWS, LLMs, Nmap, NPM</h3>
  </div>
