@@ -11,7 +11,7 @@
 </div>
 
 <br> 
-I'm a dedicated Jr developer with a keen interest in Web Application Development and Penetration Testing. Proficient in both Python and JavaScript, I strive to create secure and efficient web applications. <br>
+I'm a dedicated Jr developer with a keen interest in Backend Application Development and Science Based Programming. Proficient in Python. <br>
 
 <br> 
 
@@ -27,7 +27,7 @@ I'm a dedicated Jr developer with a keen interest in Web Application Development
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,javascript,linux,github,kali,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=python,linux,github,bash" /><br>
 </div>
 
 <br/>
