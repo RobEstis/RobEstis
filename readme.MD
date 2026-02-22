@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello, I'm Rob</h1>
-<h3 align="left">Jr. Python/JavaScript/Go</h3>
+<h3 align="left">Jr. Python Dev</h3>
 
 <div align="left"> 
   <a href="mailto:RobEstis@gmail.com" target="_blank">
